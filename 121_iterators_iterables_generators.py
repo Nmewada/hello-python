@@ -11,7 +11,8 @@ def gen(n):
 print(gen(1000))
 
 
-
+ #object initialize
+ # #no memory allocate
 ob1=gen(4)
 print(next(ob1))
 print(next(ob1))
